@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ladmusician/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/ladmusician/Downloads/neuron_android1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-09c6b5edb4f28d0b44c7277de3cecd69688ed241.jar" />
+    </item>
+
+</items>
